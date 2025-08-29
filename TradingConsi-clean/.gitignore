@@ -1,0 +1,13 @@
+# .gitignore for TradingConsi-clean
+.env
+.env.*
+*.env
+.venv
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.db
+*.db-*
