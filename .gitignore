@@ -1,0 +1,39 @@
+# Ignore environment and virtualenvs
+.env
+.env.*
+*.env
+.venv
+.venv/
+venv/
+env/
+
+# Python caches and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# Data and databases
+backend/data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+
+# Archives
+*.tar.gz
+*.zip
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
